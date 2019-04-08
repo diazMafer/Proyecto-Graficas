@@ -1,0 +1,12 @@
+# Blender MTL File: 'star.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 186.274510
+Ka 0.146015 0.170497 0.018356
+Kd 0.800000 0.729315 0.090881
+Ks 0.470026 0.470026 0.470026
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 5
